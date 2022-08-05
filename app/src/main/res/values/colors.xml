@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+   <!-- NoteMe Custom Colors-->
+    <color name="custom_black">#000000</color>
+    <color name="custom_gray">#212224</color>
+    <color name="custom_blue">#307AF7</color>
 </resources>
