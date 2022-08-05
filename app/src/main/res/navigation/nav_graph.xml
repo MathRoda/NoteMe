@@ -22,5 +22,10 @@
         <action
             android:id="@+id/action_noteFragment_to_noteListFragment"
             app:destination="@id/noteListFragment" />
+        <argument
+            android:name="note"
+            app:argType="com.mathroda.noteme.data.entity.Note"
+            app:nullable="true"
+            android:defaultValue="@null" />
     </fragment>
 </navigation>
