@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="8dp"
     android:background="@color/custom_gray"
-    tools:context=".presentation.note.NoteFragment">
+    tools:context=".presentation.note_screen.NoteFragment">
 
 
     <ImageView

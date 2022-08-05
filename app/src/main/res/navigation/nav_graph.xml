@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/noteListFragment"
-        android:name="com.mathroda.noteme.presentation.main.NoteListFragment"
+        android:name="com.mathroda.noteme.presentation.main_screen.NoteListFragment"
         android:label="fragment_note_list"
         tools:layout="@layout/fragment_note_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/noteFragment"
-        android:name="com.mathroda.noteme.presentation.note.NoteFragment"
+        android:name="com.mathroda.noteme.presentation.note_screen.NoteFragment"
         android:label="fragment_note"
         tools:layout="@layout/fragment_note" >
         <action
