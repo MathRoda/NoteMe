@@ -12,4 +12,5 @@
     <color name="custom_black">#000000</color>
     <color name="custom_gray">#212224</color>
     <color name="custom_blue">#307AF7</color>
+    <color name="light_gray">#999999</color>
 </resources>

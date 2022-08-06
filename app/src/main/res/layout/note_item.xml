@@ -15,6 +15,7 @@
         android:id="@+id/tvNoteTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/white"
         android:text="@string/note_title"
         android:maxLines="1"
         android:paddingStart="10dp"
