@@ -11,7 +11,7 @@ Watch the tutorial on Youtube here [NoteME Tutorial](https://www.youtube.com/wat
 
 ***You can Install and test latest Note Me app from below 👇***
 
-[![NoteMe](https://img.shields.io/badge/NotMe✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MathRoda/Dash-Coin-App/releases/latest)
+[![NoteMe](https://img.shields.io/badge/NotMe✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MathRoda/NoteMe/releases/download/1.0.0/Note.Me.apk)
 
 ## About
  
